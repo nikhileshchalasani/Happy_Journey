@@ -1,2 +1,4 @@
 # Happy_Journey
-A planning apllication
+A trip planning apllication.
+
+This is my project.
